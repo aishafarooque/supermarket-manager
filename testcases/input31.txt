@@ -1,0 +1,5 @@
+Alice  0  12
+Bob  3  5
+Carol  4  9
+Daniel  2  5
+Emilia  3  7
