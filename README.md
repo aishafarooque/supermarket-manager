@@ -5,4 +5,4 @@ Command to run the code:
 g++ -std=c++11 -pthread -o a.out main.cpp
 ./a.out input31.txt 
 
-![media](media/demo.gif)
+![media](demo/media.gif)
